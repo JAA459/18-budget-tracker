@@ -40,3 +40,5 @@
   
   ### Screenshots ###
   ![alt text](https://github.com/JAA459/18-budget-tracker/blob/main/images/home.png)
+  ![alt text](https://github.com/JAA459/18-budget-tracker/blob/main/images/service-worker.png)
+  
