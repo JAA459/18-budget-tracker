@@ -37,3 +37,6 @@
   GitHub: [JAA459](https://github.com/JAA459) </br>
   Email: [JAlexArroyo@gmail.com](JAlexArroyo@gmail.com) </br>
   Heroku: [Heroku deployed link](https://tranquil-lowlands-65224.herokuapp.com/)
+  
+  ### Screenshots ###
+  ![alt text](https://github.com/JAA459/17-workout-app/blob/main/images/home.png)
